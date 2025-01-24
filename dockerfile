@@ -1,5 +1,5 @@
 
-FROM ruby:3.3.4-alpine
+FROM ruby:3.3.7-alpine
 
 LABEL maintainer="gilcierweb@gmail.com"
 
